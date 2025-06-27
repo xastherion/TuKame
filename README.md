@@ -1,7 +1,8 @@
-# Camello
-A clean and documented version of robot Kame, some like "Kame110"
+# TuKame
 
-Is a "try to organize" that project from JavierIH in a new, easy an functional site.
+A clean and documented version of robot Kame, some like "your Kame"
+
+TuKame Is a "try to organize" that project from JavierIH in a new, easy an functional site.
 
 Of course i find Kame-8dof over internet, but it´s a lot o unorganized information and blank spaces.
 
